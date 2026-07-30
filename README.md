@@ -1,40 +1,67 @@
 <div align="center">
-  <!-- HAREKETLİ EL SALLAMA -->
-  <img src="https://githubusercontent.com" alt="Waving Hand" width="60" />
-  
-  <h1>Merhaba, Ben B1onyx_ 👋</h1>
-  <p>🚀 Yazılım Dünyasında Yenilikçi Çözümler Geliştiriyorum</p>
+
+  <!-- EN ÜST SAĞ KÖŞEDEKİ ZİYARETÇİ SAYAÇ KUTUSU (ASLA KIRILMAZ) -->
+  <p align="right">
+    <img src="https://komarev.com" alt="Ziyaretçi Sayacı" />
+  </p>
+
+  <!-- BAŞLIK -->
+  <h1>Hi there</h1>
 
   <br />
 
-  <!-- CANLI DISCORD AKTİFLİK VE DURUM KARTI -->
-  <!-- [DISCORD_ID_NUMARAN] yazan yere kendi sayısal ID'nizi yapıştırın -->
-  <a href="https://discord.com[1343519387243511831]" target="_blank">
-    <img src="https://githubusercontent.com[1343519387243511831]%3Ftheme%3Ddark%26bg%3D1a1c1e%26animated%3Dtrue" alt="Discord Canlı Durum" width="400" />
-  </a>
+  <!-- MODERN BUTONLAR (DISCORD, GITHUB) -->
+  <p align="center">
+    <a href="https://discord.com" target="_blank">
+      <img src="https://shields.io" />
+    </a>
+    <a href="https://github.com" target="_blank">
+      <img src="https://shields.io" />
+    </a>
+  </p>
 
-  <p>💡 <i>Yukarıdaki kartta anlık olarak Discord durumumu, oynadığım oyunu veya yazdığım kodu canlı görebilirsin!</i></p>
-</div>
+  <br />
 
-<br />
+  <!-- HAKKIMDA BÖLÜMÜ -->
+  <h2>About Me</h2>
+  
+  <p align="center">
+    • Let me introduce myself, I'm B1onyx_. I'm a versatile developer with a deep passion for all aspects of software. Every day I develop more and more with new ideas and new projects.
+  </p>
 
----
+  <br />
 
-## 👤 Hakkımda
+  <p align="center">
+    • You Should Come By <a href="https://discord.com">Here</a><br />
+    • <a href="#">My Website</a>
+  </p>
 
-* 💻 **Şu Anda:** Discord sunucularınızı daha kolay kullanılabilir, değişik ve güzel sistemlerle karşılamak için **Discord All-in-One Bot** yapmaya çalışıyorum.
-* 🎓 **Öğrendiklerim:** JavaScript (JS) ve Node.js ile geliştirmelere tam gaz devam ediyorum.
-* ⚡ **Eğlenceli Bilgi:** Bilgisayar başında saatlerce sorun çözmeye çalışmak en büyük hobim.
+  <br />
+  ---
+  <br />
 
----
+  <!-- KULLANILAN TEKNOLOJİLERİN İKONLARI -->
+  <h2>Technologies I use</h2>
 
-## 💻 Programlama Dilleri & Teknolojiler
+  <p align="center">
+    <img src="https://githubusercontent.com" alt="javascript" width="40" height="40" />&nbsp;
+    <img src="https://githubusercontent.com" alt="html5" width="40" height="40" />&nbsp;
+    <img src="https://githubusercontent.com" alt="react" width="40" height="40" />&nbsp;
+    <img src="https://githubusercontent.com" alt="nodejs" width="40" height="40" />&nbsp;
+    <img src="https://githubusercontent.com" alt="express" width="40" height="40" style="filter: invert(1);" />&nbsp;
+    <img src="https://githubusercontent.com" alt="typescript" width="40" height="40" />&nbsp;
+    <img src="https://githubusercontent.com" alt="git" width="40" height="40" />
+  </p>
 
-* **Diller:** `JavaScript (JS)` | `TypeScript` | `HTML5` | `CSS3`
-* **Çalışma Ortamı & Araçlar:** `Node.js` | `Git & GitHub`
+  <br />
+  ---
+  <br />
 
----
+  <!-- İSTATİSTİKLER -->
+  <h2>My Stats</h2>
 
-<div align="center">
-  <p>Profilimi ziyaret ettiğin için teşekkürler! 🚀</p>
+  <p align="center">
+    <img src="https://vercel.app" width="400" alt="GitHub İstatistikleri" />
+  </p>
+
 </div>
