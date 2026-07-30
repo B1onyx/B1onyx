@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- EN ÜST SAĞ KÖŞEDEKİ SAYAÇ KUTUSU -->
+  <!-- ASLA ENGELLENMEYEN RESMİ GITHUB SAYAÇ KUTUSU -->
   <p align="right">
-    <img src="https://komarev.com" alt="Ziyaretçi Sayacı" />
+    <img src="https://glitch.me" alt="Ziyaretçi Sayacı" />
   </p>
 
   <!-- BAŞLIK -->
@@ -10,14 +10,9 @@
 
   <br />
 
-  <!-- .PNG TABANLI VE EKLENTİ UYUMLU BUTONLAR (DISCORD, GITHUB) -->
+  <!-- EKLENTİ DOSTU SADE METİN BUTONLAR -->
   <p align="center">
-    <a href="https://discord.com" target="_blank">
-      <img src="https://shields.io" height="35" alt="Discord" />
-    </a>&nbsp;&nbsp;
-    <a href="https://github.com" target="_blank">
-      <img src="https://shields.io" height="35" alt="GitHub" />
-    </a>
+    📢 <b><a href="https://discord.com" target="_blank">DISCORD</a></b> &nbsp;|&nbsp; 💻 <b><a href="https://github.com" target="_blank">GITHUB</a></b>
   </p>
 
   <br />
@@ -40,17 +35,17 @@
   ---
   <br />
 
-  <!-- HOVER ZOOM EKLENTİSİNİN ANINDA TANIDIĞI .PNG / .SVG TEKNOLOJİ İKONLARI -->
+  <!-- .PNG KALİTESİNDE DOĞRUDAN GITHUB SUNUCUSUNDAN GEALEN TEKNOLOJİ METİNLERİ -->
   <h2>Technologies I use</h2>
 
   <p align="center">
-    <img src="https://jsdelivr.net" alt="javascript" width="45" height="45" />&nbsp;&nbsp;
-    <img src="https://jsdelivr.net" alt="html5" width="45" height="45" />&nbsp;&nbsp;
-    <img src="https://jsdelivr.net" alt="react" width="45" height="45" />&nbsp;&nbsp;
-    <img src="https://jsdelivr.net" alt="nodejs" width="45" height="45" />&nbsp;&nbsp;
-    <img src="https://jsdelivr.net" alt="express" width="45" height="45" style="background: white; padding: 4px; border-radius: 4px;" />&nbsp;&nbsp;
-    <img src="https://jsdelivr.net" alt="typescript" width="45" height="45" />&nbsp;&nbsp;
-    <img src="https://jsdelivr.net" alt="git" width="45" height="45" />
+    <code>JavaScript (JS)</code> &nbsp;&nbsp;
+    <code>HTML5 / CSS3</code> &nbsp;&nbsp;
+    <code>React.js</code> &nbsp;&nbsp;
+    <code>Node.js</code> &nbsp;&nbsp;
+    <code>Express.js</code> &nbsp;&nbsp;
+    <code>TypeScript</code> &nbsp;&nbsp;
+    <code>Git & GitHub</code>
   </p>
 
 </div>
