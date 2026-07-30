@@ -1,22 +1,15 @@
-<!-- BAŞLIK VE GİRİŞ BÖLÜMÜ -->
+<!-- BAŞLIK VE HAREKETLİ GİRİŞ BÖLÜMÜ -->
 <div align="center">
-  <img src="https://vercel.app[B1onyx_]%20👋&fontSize=40&animation=fadeIn" width="100%" />
+  <!-- Hareketli ve Havalı Selamlama GIF'i -->
+  <img src="https://giphy.com" width="120" />
   
-  <h3>🚀 Discord Bot Developer</h3>
-  <p>Dünyayı kodla güzelleştiriyor, ölçeklenebilir ve performanslı uygulamalar geliştiriyorum.</p>
+  <h1>Merhaba, Ben Bekir Başol 👋</h1>
+  <p>🚀 Yazılım Dünyasında Yenilikçi Çözümler Geliştiriyorum</p>
 
-  <!-- SOSYAL MEDYA ROZETLERİ -->
-  <a href="https://linkedin.com[LINKEDIN_KULLANICI_ADIN] " target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="mailto:[E-POSTA_ADRESİNIZ]" target="_blank">
-    <img src="https://shields.io" alt="Email" />
-  </a>
-  <a href="https://[VARSA_PORTFOLYO_SİTENIZ]" target="_blank">
-    <img src="https://shields.io" alt="Portfolio" />
-  </a>
-  <a href="https://medium.com@[MEDIUM_KULLANICI_ADIN]" target="_blank">
-    <img src="https://shields.io" alt="Medium" />
+  <!-- DISCORD CANLI DURUM KARTI -->
+  <!-- [DISCORD_ID_NUMARAN] yazan yere 18 haneli sayısal Discord ID'ni yapıştıracaksın -->
+  <a href="https://discord.com[1343519387243511831]" target="_blank">
+    <img src="https://cnrad.dev[1343519387243511831]?theme=dark&bg=23272A&animated=true" alt="Discord Status" />
   </a>
 </div>
 
@@ -25,58 +18,37 @@
 <!-- HAKKIMDA BÖLÜMÜ -->
 ## 👤 Hakkımda
 
-- 🔭 **Şu Anda Ne Üzerinde Çalışıyorum:** Tüm discord sunuculuarınıza yetecek gelişmiş bir Discord bot altyapısı.
-- 🌱 **Şu Anda Ne Öğreniyorum:** JS Öğrenerek devam ediyorum.
-- 🤝 **Ortak Çalışmaya Açık Olduğum Konular:** Açık kaynak kodlu (Open-source) projeler ve yenilikçi SaaS fikirleri.
+- 🔭 **Şu Anda:** Discord sunucularınızı daha kolay kullanılabilir değişik ve güzel sistemlerle karşılamak için Discord all in one bot yapmaya çalışıyorum.
+- 🌱 **Öğrendiklerim:** JS ile devamm.
+- 💬 **İletişim:** Şu an sadece discord.
+- ⚡ **Eğlenceli Bilgi:** Bilgisayar başında saatlerce sorun çözmeye çalışmak en büyük hobim.
 
 ---
 
-<!-- YETENEKLER VE TEKNOLOJİLER -->
-## 🛠️ Teknolojik Yetkinlikler
-
-### 💻 Programlama Dilleri
+### 💻 Programlama Dilleri & Teknolojiler
 <p align="left">
   <img src="https://shields.io" alt="javascript" />
   <img src="https://shields.io" alt="typescript" />
-  <img src="https://shields.io" alt="python" />
-  <img src="https://shields.io" alt="go" />
-  <img src="https://shields.io" alt="java" />
-</p>
-
-### 🌐 Ön Yüz (Frontend) & Arka Yüz (Backend)
-<p align="left">
-  <img src="https://shields.io" alt="react" />
-  <img src="https://shields.io" alt="nextjs" />
-  <img src="https://shields.io" alt="nodejs" />
-  <img src="https://shields.io" alt="express" />
-  <img src="https://shields.io" alt="django" />
-</p>
-
-### 🗄️ Veritabanı & DevOps/Bulut
-<p align="left">
-  <img src="https://shields.io" alt="postgres" />
-  <img src="https://shields.io" alt="mongodb" />
-  <img src="https://shields.io" alt="redis" />
-  <img src="https://shields.io" alt="docker" />
-  <img src="https://shields.io" alt="aws" />
+  <img src="https://shields.io" alt="html5" />
+  <img src="https://shields.io" alt="css3" />
   <img src="https://shields.io" alt="git" />
 </p>
 
 ---
 
 <!-- DİNAMİK GİTHUB İSTATİSTİKLERİ -->
-## 📊 GitHub İstatistikleri ve Analizleri
+## 📊 GitHub İstatistiklerim
 
 <div align="center">
   <table border="0">
     <tr>
       <td width="50%">
         <!-- Genel GitHub İstatistik Kartı -->
-        <img src="https://vercel.app[B1onyx]&show_icons=true&theme=dracula&count_private=true&hide_title=false" width="100%" alt="GitHub Stats" />
+        <img src="https://vercel.app" width="100%" alt="GitHub Stats" />
       </td>
       <td width="50%">
         <!-- En Çok Kullanılan Diller Kartı -->
-        <img src="https://vercel.app[B1onyx]&layout=compact&theme=dracula" width="100%" alt="Top Languages" />
+        <img src="https://vercel.app" width="100%" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -84,13 +56,13 @@
   <br />
   
   <!-- GitHub Katkı (Streak) Takipçisi -->
-  <img src="https://herokuapp.com[B1onyx]&theme=dracula" width="100%" alt="GitHub Streak" />
+  <img src="https://herokuapp.com" width="100%" alt="GitHub Streak" />
 </div>
 
 ---
 
 <!-- PROFİL ZİYARETÇİ SAYACI -->
 <div align="center">
-  <img src="https://glitch.me[GITHUB_KULLANICI_ADIN]/count.svg" alt="Giriş Sayacı" />
+  <br />
   <p>Profilimi ziyaret ettiğin için teşekkürler! 🚀</p>
 </div>
