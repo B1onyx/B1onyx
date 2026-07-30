@@ -1,63 +1,37 @@
-<!-- BAŞLIK VE HAREKETLİ GİRİŞ BÖLÜMÜ -->
 <div align="center">
-  <img src="https://githubusercontent.com" alt="Waving Hand" width="80" />
+  <!-- HAREKETLİ EL SALLAMA -->
+  <img src="https://githubusercontent.com" alt="Waving Hand" width="60" />
   
   <h1>Merhaba, Ben B1onyx_ 👋</h1>
   <p>🚀 Yazılım Dünyasında Yenilikçi Çözümler Geliştiriyorum</p>
 
-  <!-- GÜVENLİ DISCORD BAĞLANTISI -->
-  <!-- Tıklandığında Discord sitenize veya profilinize yönlendirmesi için linki güncelleyebilirsiniz -->
-  <a href="https://discord.com" target="_blank">
-    <img src="https://shields.io" alt="Discord" />
+  <br />
+
+  <!-- CANLI DISCORD AKTİFLİK VE DURUM KARTI -->
+  <!-- [DISCORD_ID_NUMARAN] yazan yere kendi sayısal ID'nizi yapıştırın -->
+  <a href="https://discord.com[1343519387243511831]" target="_blank">
+    <img src="https://githubusercontent.com[1343519387243511831]%3Ftheme%3Ddark%26bg%3D1a1c1e%26animated%3Dtrue" alt="Discord Canlı Durum" width="400" />
   </a>
+
+  <p>💡 <i>Yukarıdaki kartta anlık olarak Discord durumumu, oynadığım oyunu veya yazdığım kodu canlı görebilirsin!</i></p>
 </div>
 
 <br />
 
-<!-- HAKKIMDA BÖLÜMÜ -->
+---
+
 ## 👤 Hakkımda
 
-- 🚀 **Şu Anda:** Discord sunucularınızı daha kolay kullanılabilir, değişik ve güzel sistemlerle karşılamak için **Discord All-in-One Bot** yapmaya çalışıyorum.
-- 🎓 **Öğrendiklerim:** JavaScript (JS) ile geliştirmelere tam gaz devam ediyorum.
-- 💬 **İletişim:** Benimle projeler hakkında konuşmak için yukarıdaki Discord butonunu kullanabilirsin.
-- ⚡ **Eğlenceli Bilgi:** Bilgisayar başında saatlerce sorun çözmeye çalışmak en büyük hobim.
+* 💻 **Şu Anda:** Discord sunucularınızı daha kolay kullanılabilir, değişik ve güzel sistemlerle karşılamak için **Discord All-in-One Bot** yapmaya çalışıyorum.
+* 🎓 **Öğrendiklerim:** JavaScript (JS) ve Node.js ile geliştirmelere tam gaz devam ediyorum.
+* ⚡ **Eğlenceli Bilgi:** Bilgisayar başında saatlerce sorun çözmeye çalışmak en büyük hobim.
 
 ---
 
-<!-- YETENEKLER VE TEKNOLOJİLER (YENİLENEN KIRILMAZ ROZETLER) -->
 ## 💻 Programlama Dilleri & Teknolojiler
 
-<p align="left">
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="TypeScript" />
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="Node.js" />
-  <img src="https://shields.io" alt="Git" />
-</p>
-
----
-
-<!-- DİNAMİK GİTHUB İSTATİSTİKLERİ -->
-## 📊 GitHub İstatistiklerim
-
-<p align="center">
-  <img src="https://vercel.app" width="48%" alt="GitHub Stats" />
-  <img src="https://vercel.app" width="48%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://herokuapp.com" width="97%" alt="GitHub Streak" />
-</p>
-
----
-
-<!-- HAREKETLİ YILAN OYUNU ANIMASYONU -->
-## 🐍 Katkı Geçmişi Yılan Oyunu
-
-<p align="center">
-  <img src="https://jsdelivr.net" alt="Snake Animation" width="100%" />
-</p>
+* **Diller:** `JavaScript (JS)` | `TypeScript` | `HTML5` | `CSS3`
+* **Çalışma Ortamı & Araçlar:** `Node.js` | `Git & GitHub`
 
 ---
 
