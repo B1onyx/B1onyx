@@ -3,7 +3,7 @@
   <!-- Hareketli ve Havalı Selamlama GIF'i -->
   <img src="https://giphy.com" width="120" />
   
-  <h1>Merhaba, Ben Bekir Başol 👋</h1>
+  <h1>Merhaba, Ben B1onyx_</h1>
   <p>🚀 Yazılım Dünyasında Yenilikçi Çözümler Geliştiriyorum</p>
 
   <!-- DISCORD CANLI DURUM KARTI -->
