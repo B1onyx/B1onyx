@@ -1,28 +1,28 @@
 <div align="center">
 
-  <!-- SAĞ ÜSTTEKİ SAYAÇ RESMİ -->
-  <p align="right">
-    <a href="https://github.com_">
-      <img src="https://shields.io" alt="Ziyaretçi Sayacı" />
-    </a>
+  <!-- BAŞLIK VE HAREKETLİ GİRİŞ EMOJİSİ -->
+  <p align="center">
+    <img src="BURAYA_YUKLEDIGIN_GIRIS_SALLANAN_EL_EMOJISI_LINKI" width="60" alt="Hello" />
   </p>
-
-  <!-- BAŞLIK -->
-  <h1>Hi there</h1>
+  <h1>Hi there, I'm B1onyx_</h1>
+  <p>🚀 Yazılım Dünyasında Yenilikçi Çözümler Geliştiriyorum</p>
 
   <br />
 
-  <!-- HOVER ZOOM UYARLI .PNG DISCORD BUTONU -->
+  <!-- HAREKETLİ DISCORD BUTONU -->
   <p align="center">
     <a href="https://discord.gg" target="_blank">
-      <img src="BURAYA_YUKLEDIGIN_DISCORD_PNG_LINKI" height="40" alt="Discord" />
+      <img src="BURAYA_YUKLEDIGIN_HAREKETLI_DISCORD_GIF_LINKI" height="50" alt="Discord" />
     </a>
   </p>
 
   <br />
 
   <!-- HAKKIMDA BÖLÜMÜ -->
-  <h2>About Me</h2>
+  <h2>
+    <img src="BURAYA_YUKLEDIGIN_HAKKIMDA_KUTUSU_EMOJISI_LINKI" width="30" height="30" /> 
+    About Me
+  </h2>
   
   <p align="center">
     • Let me introduce myself, I'm B1onyx_. I'm a versatile developer with a deep passion for all aspects of software. Every day I develop more and more with new ideas and new projects.
@@ -31,24 +31,27 @@
   <br />
 
   <p align="center">
-    • You Should Come By <a href="https://discord.gg">Here</a><br />
-    • <a href="#">My Website</a>
+    🔥 You Should Come By <a href="https://discord.gg">Here</a><br />
+    🌐 <a href="#">My Website</a>
   </p>
 
   <br />
   ---
   <br />
 
-  <!-- KENDİ YÜKLEDİĞİN .PNG İKONLAR (EKLENTİN ÜZERİNE GELİNCE OTOMATİK BÜYÜTECEK VE İNDİRTECEK) -->
-  <h2>Technologies I use</h2>
-
+  <!-- GÖRSELDEKİ BİREBİR TEKNOLOJİ SIRALAMAN -->
+  <h2>
+    <img width="512" height="512" alt="windows" src="https://github.com/user-attachments/assets/b50fefa6-f17e-4254-a3cc-e1eedfcd6488" />
+    Technologies I use
+  </h2>
+ 
   <p align="center">
-    <img src="https://github.com/user-attachments/assets/04f8542d-943f-4b5c-b5fd-1b00c8d6c559" alt="javascript" width="45" height="45" />&nbsp;&nbsp;
-    <img src="https://github.com/user-attachments/assets/c0943513-1d47-4e87-b3a0-dd1e51bb28b3" alt="html5" width="45" height="45" />&nbsp;&nbsp;
-     <img src="https://github.com/user-attachments/assets/d585f73d-9665-49ba-8673-cfe680ac602a" alt="css3" width="45" height="45" />&nbsp;&nbsp;
-    <img src="https://github.com/user-attachments/assets/4a16bd73-58c8-4776-8f79-ff989cd42f7d" alt="nodejs" width="45" height="45" />&nbsp;&nbsp;
-    <img src="https://github.com/user-attachments/assets/cb7a66ed-15dd-4c61-bb61-86db231b5e08" alt="python" width="45" height="45" />&nbsp;&nbsp;
-    <img src="https://github.com/user-attachments/assets/7cd69c38-5361-4a19-afd8-f03b52236e63" alt="git" width="45" height="45" />
+    <img src="https://github.com/user-attachments/assets/0bbf2093-e127-4bab-ba4e-54efacc46b10" alt="javascript" width="45" height="45" />&nbsp;&nbsp;
+    <img src="https://github.com/user-attachments/assets/9a23a664-9734-45bc-a98f-c440623e96e5" alt="html5" width="45" height="45" />&nbsp;&nbsp;
+    <img src="https://github.com/user-attachments/assets/fb1f4b50-c681-4855-b944-077616afe638" alt="css3" width="45" height="45" />&nbsp;&nbsp;
+    <img src="https://github.com/user-attachments/assets/fffefa1b-d7f5-4fdb-aea3-4b8ef8f12d29" alt="nodejs" width="45" height="45" />&nbsp;&nbsp;
+    <img src="https://github.com/user-attachments/assets/4a22c55e-8490-4a3f-b61a-a19ea514d960" alt="python" width="45" height="45" />&nbsp;&nbsp;
+    <img src="https://github.com/user-attachments/assets/d85159a4-793c-415d-b9d7-e48bab9a7cc0"alt="git" width="45" height="45" />
   </p>
 
 </div>
