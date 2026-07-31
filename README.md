@@ -43,12 +43,12 @@
   <h2>Technologies I use</h2>
 
   <p align="center">
-    <img src="BURAYA_YUKLEDIGIN_JAVASCRIPT_PNG_LINKI" alt="javascript" width="45" height="45" />&nbsp;&nbsp;
-    <img src="BURAYA_YUKLEDIGIN_HTML5_PNG_LINKI" alt="html5" width="45" height="45" />&nbsp;&nbsp;
-     <img src="BURAYA_YUKLEDIGIN_CSS3_PNG_LINKI" alt="css3" width="45" height="45" />&nbsp;&nbsp;
-    <img src="BURAYA_YUKLEDIGIN_NODEJS_PNG_LINKI" alt="nodejs" width="45" height="45" />&nbsp;&nbsp;
-    <img src="BURAYA_YUKLEDIGIN_PYTHON_PNG_LINKI" alt="python" width="45" height="45" />&nbsp;&nbsp;
-    <img src="BURAYA_YUKLEDIGIN_GIT_PNG_LINKI" alt="git" width="45" height="45" />
+    <img src="https://github.com/user-attachments/assets/04f8542d-943f-4b5c-b5fd-1b00c8d6c559" alt="javascript" width="45" height="45" />&nbsp;&nbsp;
+    <img src="https://github.com/user-attachments/assets/c0943513-1d47-4e87-b3a0-dd1e51bb28b3" alt="html5" width="45" height="45" />&nbsp;&nbsp;
+     <img src="https://github.com/user-attachments/assets/d585f73d-9665-49ba-8673-cfe680ac602a" alt="css3" width="45" height="45" />&nbsp;&nbsp;
+    <img src="https://github.com/user-attachments/assets/4a16bd73-58c8-4776-8f79-ff989cd42f7d" alt="nodejs" width="45" height="45" />&nbsp;&nbsp;
+    <img src="https://github.com/user-attachments/assets/cb7a66ed-15dd-4c61-bb61-86db231b5e08" alt="python" width="45" height="45" />&nbsp;&nbsp;
+    <img src="https://github.com/user-attachments/assets/7cd69c38-5361-4a19-afd8-f03b52236e63" alt="git" width="45" height="45" />
   </p>
 
 </div>
