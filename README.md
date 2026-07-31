@@ -2,7 +2,7 @@
 
   <!-- BAŞLIK VE HAREKETLİ GİRİŞ EMOJİSİ -->
   <p align="center">
-    <img src="https://github.com/user-attachments/assets/8474d8f0-3df3-421f-95ff-a63b12fb7b20" width="60" alt="Hello" />
+    <img src="https://github.com/user-attachments/assets/8474d8f0-3df3-421f-95ff-a63b12fb7b20" width="100" alt="Hello" />
   </p>
   <h1>Hi there, I'm B1onyx_</h1>
   <p>🚀 Yazılım Dünyasında Yenilikçi Çözümler Geliştiriyorum</p>
