@@ -1,3 +1,4 @@
+<img width="480" height="292" alt="giphy" src="https://github.com/user-attachments/assets/8474d8f0-3df3-421f-95ff-a63b12fb7b20" />
 <div align="center">
 
   <!-- BAŞLIK VE HAREKETLİ GİRİŞ EMOJİSİ -->
