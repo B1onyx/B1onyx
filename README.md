@@ -44,14 +44,11 @@
     <img width="512" height="512" alt="windows" src="https://github.com/user-attachments/assets/b50fefa6-f17e-4254-a3cc-e1eedfcd6488" />
     Technologies I use
   </h2>
- 
+
   <p align="center">
-    <img src="https://github.com/user-attachments/assets/0bbf2093-e127-4bab-ba4e-54efacc46b10" alt="javascript" width="45" height="45" />&nbsp;&nbsp;
-    <img src="https://github.com/user-attachments/assets/9a23a664-9734-45bc-a98f-c440623e96e5" alt="html5" width="45" height="45" />&nbsp;&nbsp;
-    <img src="https://github.com/user-attachments/assets/fb1f4b50-c681-4855-b944-077616afe638" alt="css3" width="45" height="45" />&nbsp;&nbsp;
-    <img src="https://github.com/user-attachments/assets/fffefa1b-d7f5-4fdb-aea3-4b8ef8f12d29" alt="nodejs" width="45" height="45" />&nbsp;&nbsp;
-    <img src="https://github.com/user-attachments/assets/4a22c55e-8490-4a3f-b61a-a19ea514d960" alt="python" width="45" height="45" />&nbsp;&nbsp;
-    <img src="https://github.com/user-attachments/assets/d85159a4-793c-415d-b9d7-e48bab9a7cc0"alt="git" width="45" height="45" />
+ <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev" alt="My Skills" />
+    </a>
   </p>
 
 </div>
