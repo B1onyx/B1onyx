@@ -1,11 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Feq4n&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
-
-<a href="https://github.com/feq4n">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;JavaScript+%7C+Firebase+%7C+Vercel;Building+clean%2C+fast%2C+working+products;Always+shipping+something+new" alt="Typing SVG" />
-</a>
-
 <br/>
 
 <a href="https://www.feqan.com.tr"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -19,11 +13,11 @@
 ## About Me
 
 ```javascript
-const feq4n = {
-    role: "Full-Stack Developer",
-    stack: ["JavaScript", "HTML5", "CSS3", "Firebase"],
+const B1onyx_ = {
+    role: "Discord Bot Developer / Full-Stack",
+    stack: ["JavaScript", "HTML5", "CSS3", "NodeJS"],
     focus: "Building products that actually work, end to end",
-    currentlyBuilding: "Web platforms with real-time data & admin tooling",
+    currentlyBuilding: "All ın one discord bot",
     funFact: "Prefers vanilla JS over frameworks when it makes sense"
 };
 ```
@@ -31,7 +25,7 @@ const feq4n = {
 - 🔭 Currently building full-stack web platforms with **Firebase Realtime Database** & **Auth**
 - ⚡ Comfortable owning a project end to end — frontend, backend, and admin tooling
 - 🌱 Always refining UI/UX with a dark, modern, no-fluff design philosophy
-- 📫 Reach me at **feqangerayli@gmail.com**
+- 📫 Reach me at **@_bionyx_** (Discord)
 
 <br/>
 
