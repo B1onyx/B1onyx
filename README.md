@@ -34,7 +34,7 @@ const B1onyx_ = {
 - 🔭 Currently building full-stack web platforms with **Firebase Realtime Database** & **Auth**
 - ⚡ Comfortable owning a project end to end — frontend, backend, and admin tooling
 - 🌱 Always refining UI/UX with a dark, modern, no-fluff design philosophy
-- 📫 Reach me at **@_bionyx_** (Discord)
+- 📫 Reach me at **@_bionyxyz_** (Discord)
 
 <br/>
 
