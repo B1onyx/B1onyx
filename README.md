@@ -111,21 +111,6 @@ const B1onyx_ = {
 
 <br/>
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=feq4n&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&ring_color=6366f1" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feq4n&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1" width="41%"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=feq4n&theme=dark&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" width="60%"/>
-
-</div>
-
-<br/>
-
 ## Contribution Graph
 
 <div align="center">
