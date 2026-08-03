@@ -22,7 +22,7 @@
 ## About Me
 
 ```javascript
-const B1onyx_ = {
+const B1onyx = {
     role: "Discord Bot Developer / Learning Full-Stack",
     stack: ["JavaScript", "HTML5", "CSS3", "NodeJS"],
     focus: "Building products that actually work, end to end",
