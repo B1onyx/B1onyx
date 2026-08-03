@@ -99,18 +99,6 @@ const B1onyx_ = {
 
 <br/>
 
-## Featured Project
-
-<div align="center">
-
-<a href="https://github.com/feq4n/portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=feq4n&repo=portfolio&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1" />
-</a>
-
-</div>
-
-<br/>
-
 ## Contribution Graph
 
 <div align="center">
