@@ -132,16 +132,7 @@ const B1onyx_ = {
 
 <br/>
 
-<div align="center">
-
-### Let's connect
-
-<a href="mailto:feqangerayli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/feq4n"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=feq4n&color=6366f1&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=B1onyx&color=6366f1&style=flat-square&label=Profile+Views)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer" width="100%"/>
 
