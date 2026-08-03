@@ -1,12 +1,14 @@
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=B1onyx&color=6366f1&style=flat-square&label=Profile+Views)
+
 
 <br/>
 
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="mailto:bekir.basol.12@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/B1onyx"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=B1onyx&color=6366f1&style=flat-square&label=Profile+Views)
 
 </div>
 
