@@ -1,5 +1,7 @@
 <div align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=B1onyx&color=6366f1&style=flat-square&label=Profile+Views)
+
 <br/>
 
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -132,7 +134,8 @@ const B1onyx_ = {
 
 <br/>
 <div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=B1onyx&color=6366f1&style=flat-square&label=Profile+Views)
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer" width="100%"/>
 
