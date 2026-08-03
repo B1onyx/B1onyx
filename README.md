@@ -1,5 +1,10 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Feq4n&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+
+<a href="https://github.com/B1onyx">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;JavaScript+%7C+Firebase+%7C+Vercel;Building+clean%2C+fast%2C+working+products;Always+shipping+something+new" alt="Typing SVG" />
+</a>
 
 
 <br/>
@@ -8,7 +13,7 @@
 <a href="mailto:bekir.basol.12@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/B1onyx"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=B1onyx&color=6366f1&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=B1onyx&color=E99AC4&style=flat-square&label=Profile+Views)
 
 </div>
 
