@@ -13,7 +13,7 @@
 <a href="mailto:bekir.basol.12@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/B1onyx"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=B1onyx&color=F4A950&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=B1onyx&color=00000&style=flat-square&label=Profile+Views)
 
 </div>
 
