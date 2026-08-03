@@ -131,7 +131,7 @@ const B1onyx_ = {
 </div>
 
 <br/>
-
+<div align="center">
 ![Profile Views](https://komarev.com/ghpvc/?username=B1onyx&color=6366f1&style=flat-square&label=Profile+Views)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer" width="100%"/>
