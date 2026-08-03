@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=B1onyx&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Discord%20Bot%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
-<img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Hi+there%2C+I'am+B1onyx"><img align="right" width="15%" src="https://komarev.com/ghpvc/?username=B1onyx&color=191717">
+<a href="https://github.com/B1onyx">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Discord+Bot+Developer;JavaScript+%7C+Firebase+%7C+Vercel;Building+clean%2C+fast%2C+working+products" alt="Typing SVG" />
+</a>
 
 <br/>
 
