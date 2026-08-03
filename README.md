@@ -29,7 +29,7 @@ const B1onyx_ = {
 - 🔭 Currently building full-stack web platforms with **Firebase Realtime Database** & **Auth**
 - ⚡ Comfortable owning a project end to end — frontend, backend, and admin tooling
 - 🌱 Always refining UI/UX with a dark, modern, no-fluff design philosophy
-- 📫 Reach me at **@__bionyx__** (Discord)
+- 📫 Reach me at **@_bionyx_** (Discord)
 
 <br/>
 
@@ -130,7 +130,7 @@ const B1onyx_ = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=feq4n&theme=react-dark&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=B1onyx&theme=react-dark&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&hide_border=true" width="100%"/>
 
 </div>
 
