@@ -130,7 +130,7 @@ const B1onyx_ = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=B1onyx&theme=react-dark&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&hide_border=true" width="100%"/>
+<img src="https://activity-graph.vercel.app/graph?username=B1onyx&theme=react-dark&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&hide_border=true" width="100%"/>
 
 </div>
 
