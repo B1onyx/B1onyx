@@ -14,7 +14,7 @@
 
 ```javascript
 const B1onyx_ = {
-    role: "Discord Bot Developer / Full-Stack",
+    role: "Discord Bot Developer / Learning Full-Stack",
     stack: ["JavaScript", "HTML5", "CSS3", "NodeJS"],
     focus: "Building products that actually work, end to end",
     currentlyBuilding: "All ın one discord bot",
